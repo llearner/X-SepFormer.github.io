@@ -1,4 +1,5 @@
 ## X-SepFormer
+X-SepFormer: End-to-end Speaker Extraction Network with Explicit Optimization on Speaker Confusion
 
 ## Paper
 X-SepFormer: End-to-end Speaker Extraction Network with Explicit Optimization on Speaker Confusion
