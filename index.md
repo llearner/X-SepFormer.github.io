@@ -11,11 +11,11 @@ If you have any questions or suggestions, please contact liukai89@huawei.com
 ## Examples
 We divided examples into three categories: 
 
-1.Female-Male Mixtures
+1. Female-Male Mixtures
 
-2.Male-Male Mixtures
+2. Male-Male Mixtures
 
-3.Female-Female Mixtures
+3. Female-Female Mixtures
 
 For better display, we divided each category into 2 groups.
 
