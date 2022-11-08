@@ -3,13 +3,21 @@ X-SepFormer: End-to-end Speaker Extraction Network with Explicit Optimization on
 
 ## Introduction
 This is a [demo](https://llearner.github.io/X-SepFormer.github.io/) for our paper **X-SepFormer: End-to-end Speaker Extraction Network with Explicit Optimization on Speaker Confusion**. 
-We list some speech examples of our baseline system and compare our proposed methods with it.
+
+We list some speech examples of our baseline system, and compare our proposed methods with the baseline.
 
 If you have any questions or suggestions, please contact liukai89@huawei.com
 
 ## Examples
-We divided examples into three categories: 1.Female-Male Mixtures; 2. Male-Male Mixtures; 3.Female-Female Mixtures
-For better display, we divided each category into two groups.
+We divided examples into three categories: 
+
+1.Female-Male Mixtures
+
+2.Male-Male Mixtures
+
+3.Female-Female Mixtures
+
+For better display, we divided each category into 2 groups.
 
 ### 1. Female - Male Mixtures (Group 1 & 2)
 
