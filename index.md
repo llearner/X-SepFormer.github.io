@@ -1,9 +1,6 @@
 ## X-SepFormer
 X-SepFormer: End-to-end Speaker Extraction Network with Explicit Optimization on Speaker Confusion
 
-## Paper
-X-SepFormer: End-to-end Speaker Extraction Network with Explicit Optimization on Speaker Confusion
-
 ## Introduction
 This is a [demo](https://llearner.github.io/X-SepFormer.github.io/) for our paper **X-SepFormer: End-to-end Speaker Extraction Network with Explicit Optimization on Speaker Confusion**. 
 We list some speech examples of our baseline system and compare our proposed methods with it.
