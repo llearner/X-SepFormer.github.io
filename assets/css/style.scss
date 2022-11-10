@@ -3,27 +3,6 @@
 
 @import "jekyll-theme-cayman";
 
-header h1 {
-    font-size: 2em
-}
-
-header h2 {
-    padding-top: 10px;
-    font: bold italic 1em/1.5 Georgia, Times, ¡°Times New Roman¡±, serif;
-}
-
-div.shell {
-    width: 1000px;
-}
-
-span.banner-fix {
-    display: none;
-}
-
-.header-level-1 {
-    text-align: left;
-}
-
-footer {
-    max-width: 1000px;
+.inner {
+  max-width: 120%;
 }
