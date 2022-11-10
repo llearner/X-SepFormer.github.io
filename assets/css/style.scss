@@ -2,6 +2,7 @@
 ---
 
 // Breakpoints
-$large-breakpoint: 100em
+$large-breakpoint: 100em !default;
+$medium-breakpoint: 60em !default;
 
-@import "jekyll-theme-cayman";
+@import "{{ site.theme }}";
